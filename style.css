@@ -1,0 +1,24 @@
+body{
+    margin:40px 125px;
+   text-align:center;  
+   background:#fffaf0; 
+}
+#line{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#txt{
+    font-size:18px;
+}
+#pldrme{
+    font-size:22px;
+}
+#check{
+    margin:2px 5px;
+    padding:5px 8px;
+    border-radius:10%;
+    background:#8ce7f3;
+    font-size:16px;
+    font-family: Arial, Helvetica, sans-serif;
+    border:none;
+    box-shadow:1px 6px 5px 1px rgba(0,0,0,0.4);  
+}
